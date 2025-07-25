@@ -1,0 +1,6 @@
+[2025-07-26 02:04:30] [INFO] Starting system check...
+[2025-07-26 02:04:30] [INFO] OS detected: Ubuntu 24.04.2 LTS
+[2025-07-26 02:04:30] [INFO] NVIDIA GPU found: NVIDIA GeForce RTX 3050 Ti Laptop GPU, 576.88
+[2025-07-26 02:04:30] [INFO] Docker installed: Docker version 27.5.1, build 27.5.1-0ubuntu3~24.04.2
+[2025-07-26 02:04:30] [WARNING] CUDA not found
+[2025-07-26 02:04:30] [INFO] System check complete with exit code 0

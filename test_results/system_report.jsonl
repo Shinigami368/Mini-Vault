@@ -1,0 +1,6 @@
+{"timestamp":"2025-07-25T23:04:30Z","level":"INFO","component":"diagnostic","message":"Starting system check..."}
+{"timestamp":"2025-07-25T23:04:30Z","level":"INFO","component":"diagnostic","message":"OS detected: Ubuntu 24.04.2 LTS"}
+{"timestamp":"2025-07-25T23:04:30Z","level":"INFO","component":"diagnostic","message":"NVIDIA GPU found: NVIDIA GeForce RTX 3050 Ti Laptop GPU, 576.88"}
+{"timestamp":"2025-07-25T23:04:30Z","level":"INFO","component":"diagnostic","message":"Docker installed: Docker version 27.5.1, build 27.5.1-0ubuntu3~24.04.2"}
+{"timestamp":"2025-07-25T23:04:30Z","level":"WARNING","component":"diagnostic","message":"CUDA not found"}
+{"timestamp":"2025-07-25T23:04:30Z","level":"INFO","component":"diagnostic","message":"System check complete with exit code 0"}

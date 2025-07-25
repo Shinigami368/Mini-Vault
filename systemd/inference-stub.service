@@ -1,0 +1,16 @@
+[Unit]
+Description=Inference Stub Docker Container Service
+After=docker.service network.target
+Requires=docker.service
+
+[Service]
+Type=simple
+WorkingDirectory=/home/youruser/Mini-Vault
+ExecStart=/bin/bash /home/youruser/Mini-Vault/run_inference_stub.sh
+Restart=on-failure
+RestartSec=5s
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
