@@ -1,5 +1,7 @@
 MiniVault Bootstrap
 
+> ⚡ This project was originally created as a case study to simulate infrastructure readiness for a GPU-powered AI workload.
+
 Project Purpose:
 
 This project simulates the initial bootstrap process of a local AI appliance. It checks whether the system has the necessary software and hardware components, runs a mock inference container, and logs each step in both plain text and structured JSON format.
